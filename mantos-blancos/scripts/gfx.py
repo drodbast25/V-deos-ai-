@@ -208,7 +208,7 @@ def frame(t):
     tag(fr,t,11.35,12.4,'Equipo Mantos Blancos & Embajada de NZ',y=H-150)
     chapter(fr,t,12.6,17.4,'01','CÓMO FUNCIONA','Recorrido por el rajo y las operaciones')
     tag(fr,t,17.6,19.4,'Perforación en el rajo')
-    card(fr,t,19.5,25.8,'Mina a rajo abierto','Cobre y plata',['Yacimiento estratoligado tipo "manto"','Producción de cátodos y concentrado de cobre'])
+    card(fr,t,19.5,25.8,'Mina a rajo abierto','100% cobre',['Yacimiento de cobre tipo "manto"','Producción de cátodos y concentrado de cobre'])
     process(fr,t,26.2,39.7,active=2)
     tag(fr,t,39.9,42.3,'Conversación en el mirador del rajo')
     chapter(fr,t,40.2,44.3,'02','PLANES Y DESAFÍOS','La mirada hacia el futuro de la faena')
